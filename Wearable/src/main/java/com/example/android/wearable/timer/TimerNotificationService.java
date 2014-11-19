@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.timer;
+package com.example.android.wearable.timer;
 
 import android.app.AlarmManager;
 import android.app.IntentService;
@@ -25,7 +25,7 @@ import android.content.Context;
 import android.content.Intent;
 import android.util.Log;
 
-import com.example.android.timer.util.Constants;
+import com.example.android.wearable.timer.util.Constants;
 
 /**
  * Service class that manages notifications of the timer.

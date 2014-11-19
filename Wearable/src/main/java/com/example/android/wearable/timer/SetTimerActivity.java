@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.timer;
+package com.example.android.wearable.timer;
 
 import android.app.Activity;
 import android.app.AlarmManager;
@@ -32,8 +32,8 @@ import android.view.LayoutInflater;
 import android.view.ViewGroup;
 import android.widget.TextView;
 
-import com.example.android.timer.util.Constants;
-import com.example.android.timer.util.TimerFormat;
+import com.example.android.wearable.timer.util.Constants;
+import com.example.android.wearable.timer.util.TimerFormat;
 
 /** This class sets a timer. */
 public class SetTimerActivity extends Activity implements WearableListView.ClickListener {

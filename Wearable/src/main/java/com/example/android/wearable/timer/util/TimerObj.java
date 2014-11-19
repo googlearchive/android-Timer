@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.timer.util;
+package com.example.android.wearable.timer.util;
 
 import android.os.SystemClock;
 

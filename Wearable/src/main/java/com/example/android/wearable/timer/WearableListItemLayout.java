@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.timer;
+package com.example.android.wearable.timer;
 
 import android.content.Context;
 import android.graphics.drawable.GradientDrawable;

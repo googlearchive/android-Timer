@@ -14,7 +14,7 @@
  * limitations under the License.
  */
 
-package com.example.android.timer.util;
+package com.example.android.wearable.timer.util;
 
 /** Helper class to format the timer. Based on com.android.deskclock.timer.CountingTimerView. */
 public final class TimerFormat {
